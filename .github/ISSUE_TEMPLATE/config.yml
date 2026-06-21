@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+# To only give the change to use the templates:
+# blank_issues_enabled: false
+
+# assignee: @mainibet
+#aslo include in each template as assignee
